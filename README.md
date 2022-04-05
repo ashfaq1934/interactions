@@ -1,6 +1,6 @@
 # Instructions for setup
 
-- To run the project you'll need both python and node js installed, you can find out more at:
+- To run the project you'll need both python and node js installed, you can download these through:
   - https://www.python.org/getit/ 
   - https://nodejs.org/en/download/
 
